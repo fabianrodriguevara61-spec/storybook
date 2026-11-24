@@ -1,0 +1,9 @@
+torch==2.5.1
+diffusers==0.32.2
+transformers==4.47.1
+accelerate==1.2.1
+huggingface_hub==0.27.1
+piper-tts==1.8.0
+streamlit==1.40.2
+requests
+numpy
