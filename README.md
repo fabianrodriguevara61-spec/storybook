@@ -30,7 +30,7 @@ Estos pasos necesitan Internet solo la primera vez.
 1. Clonar el repositorio:
 
    ```
-   git clone https://github.com/fabianrodriguevara61-spec/storybook.git
+   git clone https://github.com/SantiaGonzav/storybook.git
    cd storybook
    ```
 
